@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Defects Detection Project
 
 You can use the [editor on GitHub](https://github.com/obu-sobe/construction_informatics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
